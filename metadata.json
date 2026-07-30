@@ -1,0 +1,6 @@
+{
+  "name": "Photo Gallery",
+  "description": "A clean, simple photo upload website where admin can upload and delete photos, and public users can view the gallery.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
